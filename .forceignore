@@ -12,4 +12,13 @@
 # BEGIN SERPENT MANAGED IGNORE
 force-app/infrastructure/apex-common/main/classes/fflib_Application.cls
 force-app/infrastructure/apex-common/main/classes/fflib_Application.cls-meta.xml
+force-app/main/default/reports/NPSP_Health_Check.reportFolder-meta.xml
+force-app/main/default/reports/NPSP_Health_Check/Contacts_Without_Accounts.report-meta.xml
+force-app/main/default/reports/NPSP_Health_Check/Empty_Household_Accounts.report-meta.xml
+force-app/main/default/reports/NPSP_Health_Check/Empty_Household_Objects.report-meta.xml
+force-app/main/default/reports/NPSP_Health_Check/Individual_Accounts_by_Account_Type.report-meta.xml
+force-app/main/default/reports/NPSP_Health_Check/Individual_Contacts_by_Account_Type.report-meta.xml
+force-app/main/default/reports/NPSP_Health_Check/Opportunities_with_Primary_Contact_Roles.report-meta.xml
+force-app/main/default/reports/NPSP_Health_Check/Opportunities_without_Payments.report-meta.xml
+force-app/main/default/reports/npe01__Nonprofit_Edition_Reports/NPSP_Campaign_Household_Mailing_List_V2.report-meta.xml
 # END SERPENT MANAGED IGNORE
