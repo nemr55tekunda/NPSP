@@ -10,4 +10,6 @@
 **/*.ts
 
 # BEGIN SERPENT MANAGED IGNORE
+force-app/infrastructure/apex-common/main/classes/fflib_Application.cls
+force-app/infrastructure/apex-common/main/classes/fflib_Application.cls-meta.xml
 # END SERPENT MANAGED IGNORE
