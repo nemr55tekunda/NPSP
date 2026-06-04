@@ -8,3 +8,6 @@
 **/tsconfig.json
 
 **/*.ts
+
+# BEGIN SERPENT MANAGED IGNORE
+# END SERPENT MANAGED IGNORE
