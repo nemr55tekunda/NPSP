@@ -1,10 +1,17 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
+    "packageDirectories": [
+        {
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "path": "force-app",
+            "default": true,
+            "package": "testbigfiles",
+            "versionDescription": ""
+        }
+    ],
+    "namespace": "npsp",
+    "sourceApiVersion": "53.0",
+    "packageAliases": {
+        "testbigfiles": "0HogK0000002RSLSA2"
     }
-  ],
-  "namespace": "npsp",
-  "sourceApiVersion": "53.0"
 }
