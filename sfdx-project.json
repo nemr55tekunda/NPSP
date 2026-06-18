@@ -1,10 +1,17 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
+    "packageDirectories": [
+        {
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "path": "force-app",
+            "default": true,
+            "package": "npsp1",
+            "versionDescription": ""
+        }
+    ],
+    "namespace": "npsp",
+    "sourceApiVersion": "53.0",
+    "packageAliases": {
+        "npsp1": "0HoP50000000pLtKAI"
     }
-  ],
-  "namespace": "npsp",
-  "sourceApiVersion": "53.0"
 }
