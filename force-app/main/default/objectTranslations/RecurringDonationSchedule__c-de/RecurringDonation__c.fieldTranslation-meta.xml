@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <name>RecurringDonation__c</name>
-    <help>Die wiederkehrende Spende, der dieser Zeitplan-Datensatz zugeordnet ist.</help>
-    <relationshipLabel>Zeitpläne für wiederkehrende Spenden</relationshipLabel>
-    <label>Wiederkehrende Spende</label>
-</CustomFieldTranslation>
