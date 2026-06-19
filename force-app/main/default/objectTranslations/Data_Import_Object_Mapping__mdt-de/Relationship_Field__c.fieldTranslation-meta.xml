@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <name>Relationship_Field__c</name>
-    <help>Wenn es sich bei dieser Objektgruppe um ein untergeordnetes Element des Vorgängers handelt, sollte dieses Feld im übergeordneten Element nachschlagen. Ist es dem Vorgänger übergeordnet, sollte es das Nachschlagefeld des untergeordneten Elements bilden.</help>
-    <label>Feld "Beziehung"</label>
-</CustomFieldTranslation>
